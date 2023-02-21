@@ -1,0 +1,4 @@
+/home/chika/CLionProjects/tcp_client_server/server/build/CMakeFiles/doxygen.dir
+/home/chika/CLionProjects/tcp_client_server/server/build/CMakeFiles/server.dir
+/home/chika/CLionProjects/tcp_client_server/server/build/CMakeFiles/edit_cache.dir
+/home/chika/CLionProjects/tcp_client_server/server/build/CMakeFiles/rebuild_cache.dir

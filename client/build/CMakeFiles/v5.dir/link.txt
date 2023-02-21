@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address -fsanitize=bounds CMakeFiles/v5.dir/src/main.c.o CMakeFiles/v5.dir/src/conversion.c.o CMakeFiles/v5.dir/src/copy.c.o CMakeFiles/v5.dir/src/error.c.o -o v5 

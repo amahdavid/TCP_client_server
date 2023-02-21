@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address -fsanitize=bounds CMakeFiles/client.dir/src/main.c.o CMakeFiles/client.dir/src/conversion.c.o CMakeFiles/client.dir/src/copy.c.o CMakeFiles/client.dir/src/error.c.o -o client 

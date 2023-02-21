@@ -1,0 +1,12 @@
+# ninja log v5
+0	168	0	CMakeFiles/doxygen	171285e3bf26f858
+0	168	0	/home/chika/CLionProjects/tcp_client_server/client/cmake-build-debug/CMakeFiles/doxygen	171285e3bf26f858
+170	329	1675053008434133274	CMakeFiles/client.dir/src/error.c.o	a1211a90210392ab
+170	355	1675053008462131721	CMakeFiles/client.dir/src/conversion.c.o	21bc7887737aed91
+169	363	1675053008470131276	CMakeFiles/client.dir/src/copy.c.o	47f8ed3dea8d66f4
+169	707	1675053008814112178	CMakeFiles/client.dir/src/main.c.o	32e7cbe862a2968f
+707	754	1675053008858109735	client	32e5df446170885f
+1	48	0	CMakeFiles/doxygen	171285e3bf26f858
+1	48	0	/home/chika/CLionProjects/tcp_client_server/client/cmake-build-debug/CMakeFiles/doxygen	171285e3bf26f858
+0	48	0	CMakeFiles/doxygen	171285e3bf26f858
+0	48	0	/home/chika/CLionProjects/tcp_client_server/client/cmake-build-debug/CMakeFiles/doxygen	171285e3bf26f858
